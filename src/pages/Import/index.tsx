@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useHistory } from 'react-router-dom';
 
 import filesize from 'filesize';
@@ -21,6 +21,10 @@ interface FileProps {
 const Import: React.FC = () => {
   const [uploadedFiles, setUploadedFiles] = useState<FileProps[]>([]);
   const history = useHistory();
+
+  useEffect(() => {
+    localStorage.setItem("@GoFinances:import", "true");
+  }, []);
 
   async function handleUpload(): Promise<void> {
     const data = new FormData();
