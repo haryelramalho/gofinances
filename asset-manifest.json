@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/gofinances/static/js/main.235c8d8e.chunk.js",
+    "main.js.map": "/gofinances/static/js/main.235c8d8e.chunk.js.map",
+    "runtime-main.js": "/gofinances/static/js/runtime-main.d9bd4327.js",
+    "runtime-main.js.map": "/gofinances/static/js/runtime-main.d9bd4327.js.map",
+    "static/js/2.dfc86167.chunk.js": "/gofinances/static/js/2.dfc86167.chunk.js",
+    "static/js/2.dfc86167.chunk.js.map": "/gofinances/static/js/2.dfc86167.chunk.js.map",
+    "index.html": "/gofinances/index.html",
+    "precache-manifest.0c893f37e4f00e5ab199e95ab5eac59c.js": "/gofinances/precache-manifest.0c893f37e4f00e5ab199e95ab5eac59c.js",
+    "service-worker.js": "/gofinances/service-worker.js",
+    "static/js/2.dfc86167.chunk.js.LICENSE.txt": "/gofinances/static/js/2.dfc86167.chunk.js.LICENSE.txt",
+    "static/media/alert.svg": "/gofinances/static/media/alert.78a343ae.svg",
+    "static/media/income.svg": "/gofinances/static/media/income.df4567f0.svg",
+    "static/media/logo.svg": "/gofinances/static/media/logo.ce269cac.svg",
+    "static/media/outcome.svg": "/gofinances/static/media/outcome.bb31a5f3.svg",
+    "static/media/total.svg": "/gofinances/static/media/total.7f99c5ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9bd4327.js",
+    "static/js/2.dfc86167.chunk.js",
+    "static/js/main.235c8d8e.chunk.js"
+  ]
+}
